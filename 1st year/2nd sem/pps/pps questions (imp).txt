@@ -1,0 +1,138 @@
+						
+
+					UNIT-1
+
+
+1.Define algorithm? Explain properties of algorithm and example?
+
+2.Define flow chart? What are symbols in flow chart and example?
+
+3.Explain about constants?
+
+4. Define variable? Rules for creating variable?
+
+5. Explain about data types?
+
+6. Explain about operators?
+
+7. Explain about control statements(control structures)?
+
+8. Explain about type casting?
+
+9. Explain about storage classes?
+
+10. Explain operator precedence and associativity?
+
+11. Structure of a C program?
+
+12. Explain about command line arguments?
+
+
+
+					UNIT-2
+
+1. Define an array? Explain applications of arrays?
+
+2. Explain about single dimension arrays with an example?
+
+3. Explain about multi dimension arrays with an example?
+
+4.Define String? Explain different types of string declarations with syntax?
+
+5. Explain all predefine or built function of strings with an example? 
+	(ex: strcpy(),strlen(),strrev(),strcat()…..etc)
+
+6. Write about the following functions
+	a) gets()	b) puts()
+
+7.Define structure? Write the syntax for structure declaration?
+
+8. Write the different ways for structure variable declaration and initialization with examples?
+
+9. Explain the procedure of accessing structure pointer variables with an example?
+
+10. Explain arrays of structures?
+
+11. Define Union? write the syntax for union declaraton?
+
+12. What are differences between structure & union?
+
+13. Define pointer? write the advantages of pointer?
+
+14. Explain pointer to pointer (double pointer) concept with an example?
+
+15. Explain pointer arithmetic in c?
+
+16. Explain the procedure for passing an array to a function using pointer concept with an example?
+
+17. Expalin about self referential structures?
+
+18. Write about enumerated types?
+
+19. Explain array of pointers with an example?
+
+
+						UNIT-3
+
+1. Explain about preprocessor commands?
+
+2. 1. Define the following?
+	a) file		b) stream	c) text file	d) binary file
+
+3. Write the differences between binary files and text files?
+
+4. Write a file copy program that copies one file contents to another file?
+
+5. Write a c program that displays the contents of file on screen?
+
+6. Explain different types of modes in binary files and text files?
+
+7. Explain all file input/output functions in c (ex: fgetc(),fputc(),fopen(),fprintf()….etc)?
+
+8. Explain the following functions with example?
+	a) fseek()	b) rewind()	c) ftell() 
+
+
+
+						UNIT-4
+
+1. Define function? Explain the procedure for creating a user defined function?
+
+2. Distinguish between user defined function and built in function?
+
+3. Explain different categories of functions with example?
+
+4. Explain call by value & call by reference with example?
+
+5. Explain recursive function with an example?(factorial, fibonacci series)
+
+6. What are functions advantages? Explain various parameter passing techniques in functions.
+ 
+7. Explain dynamic memory allocation functions?
+
+
+
+
+						UNIT-5
+
+1. Define algorithm? Explain its properties?
+
+2. Algorithm for quadratic equation?
+
+3. Algorithm for finding minimum & maximum?
+
+4. Algorithm for prime number?
+
+5. Linear search
+
+6. Binary search
+
+7. bubble sort, selection sort, insertion sort
+
+8. Expalin about space complexity and time complexity with an example?
+
+9. Explain asymptotic notations?
+
+
+
+
