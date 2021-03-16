@@ -1,0 +1,99 @@
+				UNIT-1
+1. Define the following ?
+	a. class		b. object	c.inheritance
+2. briefly explain operators in cpp?
+
+3. Define function? Explain the procedure for creating a user defined function?
+4. Explain about dynamic memory allocation?
+
+
+				UNIT-2
+1. Define class? Explain the structure of a class with an example?
+2. Define the following?
+	a. constructor		b. destructor
+
+3. Explain friend class with an example?
+4. Explain about data abstraction with an example?
+
+
+				UNIT-3
+1. Define inheritance? List different types of inheritances?
+2. Explain briefly virtual function in cpp?
+
+3.  Explain multiple inheritance with an example?
+4. Explain static and dynamic binding in polymorphism?
+
+
+				UNIT-4
+1. Define Stream? List stream classes in cpp?
+2. Briefly explain operations in file handling in cpp?
+3. Write the following cpp programs?
+	a. reading from a file		b. writing into a file
+4. Explain the following with a example program?
+	a. tellp()	b. tellg()	c. seekp()	d. seekg() 
+
+
+				UNIT-5
+1. Define Exception? List different types of Exceptions?
+2. Write the benefits of Exception handling?
+
+3.  Explain try – catch block with an example?
+4. Explain procedure for handling user defined Exceptions ?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PRE-FINAL QUESTION PAPER
+PART-A
+1. Define the following ?
+	a. class		b. object	c.inheritance
+2. briefly explain operators in cpp?
+3. Define class? Explain the structure of a class with an example?
+4. Define the following?
+	a. constructor		b. destructor
+5. Define inheritance? List different types of inheritances?
+6. Explain briefly virtual function in cpp?
+7. Define Stream? List stream classes in cpp?
+8. Briefly explain operations in file handling in cpp?
+9. Define Exception? List different types of Exceptions?
+10. Write the benefits of Exception handling?
+
+PART-B
+2. Define function? Explain the procedure for creating a user defined function?
+OR
+3. Explain about dynamic memory allocation?
+
+4. Explain friend class with an example?
+OR
+5. Explain about data abstraction with an example?
+
+6.  Explain multiple inheritance with an example?
+OR
+7. Explain static and dynamic binding in polymorphism?
+
+8. Write the following cpp programs?
+	a. reading from a file		b. writing into a file
+OR
+9. Explain the following with a example program?
+	a. tellp()	b. tellg()	c. seekp()	d. seekg() 
+
+10.  Explain try – catch block with an example?
+OR
+11 Explain procedure for handling user defined Exceptions ?
+
+
+
+
